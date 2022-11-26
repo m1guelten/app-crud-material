@@ -1,0 +1,85 @@
+{
+  "productList": [
+    {
+      "name": "HP Probook",
+      "category": "Ноутбуки",
+      "productCondition": "Новий",
+      "price": 2058,
+      "comment": "Супер ноут",
+      "date": "2022-11-09T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "name": "Asus TufA15",
+      "category": "Ноутбуки",
+      "productCondition": "Новий",
+      "price": 4321,
+      "comment": "Супер крутий ноутбук! Сама остання модель, DDR5",
+      "date": "2022-11-08T22:00:00.000Z",
+      "id": 3
+    },
+    {
+      "name": "Canon MP220",
+      "category": "Оргтехніка",
+      "productCondition": "Б/у",
+      "price": 59,
+      "comment": "Треба замінити картрідж",
+      "date": "2022-11-08T22:00:00.000Z",
+      "id": 4
+    },
+    {
+      "name": "Dell",
+      "category": "Планшети",
+      "productCondition": "Новий",
+      "price": 835,
+      "comment": "Гарний кут обзору",
+      "date": "2022-11-01T22:00:00.000Z",
+      "id": 5
+    },
+    {
+      "name": "Asus #1",
+      "category": "Ноутбуки",
+      "productCondition": "Б/у",
+      "price": 750,
+      "comment": "Трохи потертий",
+      "date": "2022-11-09T22:00:00.000Z",
+      "id": 6
+    },
+    {
+      "name": "Asus #2",
+      "category": "Ноутбуки",
+      "productCondition": "Б/у",
+      "price": 750,
+      "comment": "Трохи потертий",
+      "date": "2022-11-09T22:00:00.000Z",
+      "id": 7
+    },
+    {
+      "name": "Asus #3",
+      "category": "Ноутбуки",
+      "productCondition": "Б/у",
+      "price": 750,
+      "comment": "Трохи потертий",
+      "date": "2022-11-09T22:00:00.000Z",
+      "id": 8
+    },
+    {
+      "name": "Asus #4",
+      "category": "Ноутбуки",
+      "productCondition": "Б/у",
+      "price": 750,
+      "comment": "Трохи потертий",
+      "date": "2022-11-09T22:00:00.000Z",
+      "id": 9
+    },
+    {
+      "name": "Asus #5",
+      "category": "Ноутбуки",
+      "productCondition": "Б/у",
+      "price": 756,
+      "comment": "Трохи потертий",
+      "date": "2022-11-09T22:00:00.000Z",
+      "id": 10
+    }
+  ]
+}
